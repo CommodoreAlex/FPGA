@@ -1,38 +1,61 @@
-# FPGA & VHDL for Beginners
+# Introduction to Embedded Systems Development with Xilinx FPGAs & VHDL
 
-Welcome to **FPGA & VHDL for Beginners**! This repository is designed to help you learn the basics of **Field Programmable Gate Arrays (FPGAs)** and **VHDL (VHSIC Hardware Description Language)** from scratch.
+Welcome to **Embedded Systems with Xilinx FPGAs & VHDL for Beginners**.
+
+This repository provides a comprehensive guide to mastering the fundamentals of **Field Programmable Gate Arrays (FPGAs)** and **VHDL (VHSIC Hardware Description Language)**. The focus is on embedded systems development, using Xilinx FPGAs as a platform to introduce practical FPGA design and development workflows. You'll gain hands-on experience with VHDL and FPGA architecture while building the foundational skills needed for advanced embedded system applications.
 
 ---
 
 ## Table of Contents
 
-1. [Introduction to FPGA](#introduction-to-fpga)
-2. [Understanding VHDL](#understanding-vhdl)
-3. [Setting Up the Development Environment](#setting-up-the-development-environment)
-4. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
-5. [FPGA Design Workflow](#fpga-design-workflow)
-6. [Debugging and Optimization](#debugging-and-optimization)
-7. [Hands-on FPGA Projects](#hands-on-fpga-projects)
+1. [Overview](#overview)
+2. [Prerequisites](#prerequisites)
+3. [Introduction to FPGA](#introduction-to-fpga)
+4. [Understanding VHDL](#understanding-vhdl)
+5. [Setting Up the Development Environment](#setting-up-the-development-environment)
+6. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
+7. [FPGA Design Workflow](#fpga-design-workflow)
+8. [Debugging and Optimization](#debugging-and-optimization)
+9. [Hands-on FPGA Projects](#hands-on-fpga-projects)
 
 ---
 
 ### Overview
 
-This repository will:
-- Introduce key concepts and architecture of **Field Programmable Gate Arrays (FPGAs)**
-- Teach **VHDL** syntax, structure, and best practices for effective design
-- Walk you through setting up a **Xilinx FPGA** development environment
-- Provide hands-on projects, exercises, and simulations for real-world learning
-- Help bridge the gap between theoretical knowledge and practical FPGA design
+This repository will help you:
+
+- Understand the architecture and fundamentals of **Field Programmable Gate Arrays (FPGAs)**, specifically using **Xilinx FPGA boards**.
+- Learn the **VHDL** language to design and implement digital circuits on FPGAs.
+- Set up a development environment for **Xilinx FPGAs** and get familiar with the tools required for FPGA design and simulation.
+- Work through practical, hands-on projects to strengthen your understanding of FPGA-based embedded systems development.
+- Bridge the gap between theoretical learning and real-world FPGA design by applying knowledge through simulations and physical hardware.
 
 ---
 
 ### Prerequisites
 
-To get the most out of this guide, it’s helpful to have:
-- Basic understanding of digital logic concepts (AND, OR, Flip-Flops, etc.)
-- Some programming experience (not mandatory, but helpful)
-- An **Xilinx FPGA development board** (recommended options: **Basys 3**, **Nexys 4 DDR**, etc.)
+To maximize the value of this repository, it's helpful to have:
+
+- A basic understanding of digital logic concepts (AND, OR gates, Flip-Flops, etc.).
+- Familiarity with programming concepts (not mandatory, but useful).
+- An **Xilinx FPGA development board** (recommended models: **Basys 3**, **Nexys 4 DDR**, etc.).
+
+---
+
+### Recommended Hardware & Costs
+
+For my own embedded systems development journey using **Xilinx FPGAs** and **VHDL**, I invested in the following equipment:
+
+1. [**Digilent Basys 3 Artix-7 FPGA Trainer Board**](https://www.amazon.com/dp/B00NUE1WOG?ref=ppx_yo2ov_dt_b_fed_asin_title)
+    - **Price**: $176.00
+    - The **Basys 3** is an ideal starting point for beginners, offering a powerful platform for learning FPGA architecture and VHDL development.
+2. [**Maeline 3ft Micro USB Cable**](https://www.amazon.com/dp/B07Q6HT22Q?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+    - **Price**: $6.00
+    - A critical accessory for connecting your FPGA board to your computer for programming and powering the board.
+
+**Total Cost**: **$182.00**
+
+This affordable setup provides a solid foundation for diving into FPGA and embedded systems development with hands-on learning.
 
 ---
 
@@ -113,5 +136,3 @@ Learn more in [DEBUGGING.md](debugging.md).
 Learn more in [PROJECTS.md](projects.md).
 
 ---
-
-
