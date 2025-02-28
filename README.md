@@ -13,7 +13,6 @@ Welcome to **FPGA & VHDL for Beginners**! This repository is designed to help yo
 5. [FPGA Design Workflow](#fpga-design-workflow)
 6. [Hands-on FPGA Projects](#hands-on-fpga-projects)
 7. [Debugging and Optimization](#debugging-and-optimization)
-8. [Advanced Topics (Future Scope)](#advanced-topics-future-scope)
 
 ---
 
@@ -115,12 +114,3 @@ Learn more in [DEBUGGING.md](debugging.md).
 
 ---
 
-### Advanced Topics (Future Scope)
-
-- Finite State Machines (FSMs)
-- Memory (RAM, ROM, FIFO) in VHDL
-- High-Level Synthesis (HLS)
-- FPGA-based Signal Processing
-- Interfacing with External Hardware
-
-Learn more in [ADVANCED_TOPICS.md](advanced_topics.md).
