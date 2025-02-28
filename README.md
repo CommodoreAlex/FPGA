@@ -129,9 +129,7 @@ Learn more in [DEBUGGING.md](debugging.md).
 
 - Blinking LED (Hello World of FPGA)
 - Button Input and Debouncing
-- 7-Segment Display Control
 - Simple State Machine
-- UART Communication Basics
 
 Learn more in [PROJECTS.md](projects.md).
 
