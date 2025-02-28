@@ -11,8 +11,8 @@ Welcome to **FPGA & VHDL for Beginners**! This repository is designed to help yo
 3. [Setting Up the Development Environment](#setting-up-the-development-environment)
 4. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
 5. [FPGA Design Workflow](#fpga-design-workflow)
-6. [Hands-on FPGA Projects](#hands-on-fpga-projects)
-7. [Debugging and Optimization](#debugging-and-optimization)
+6. [Debugging and Optimization](#debugging-and-optimization)
+7. [Hands-on FPGA Projects](#hands-on-fpga-projects)
 
 ---
 
@@ -92,6 +92,16 @@ Learn more in [FPGA_DESIGN_WORKFLOW.md](fpga_design_workflow.md).
 
 ---
 
+### Debugging and Optimization
+
+- Simulation with Testbenches
+- Timing Constraints and Analysis
+- Power Optimization Techniques
+
+Learn more in [DEBUGGING.md](debugging.md).
+
+---
+
 ### Hands-on FPGA Projects
 
 - Blinking LED (Hello World of FPGA)
@@ -104,13 +114,4 @@ Learn more in [PROJECTS.md](projects.md).
 
 ---
 
-### Debugging and Optimization
-
-- Simulation with Testbenches
-- Timing Constraints and Analysis
-- Power Optimization Techniques
-
-Learn more in [DEBUGGING.md](debugging.md).
-
----
 
