@@ -6,16 +6,14 @@ Welcome to **FPGA & VHDL for Beginners**! This repository is designed to help yo
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
-3. [Introduction to FPGA](#introduction-to-fpga)
-4. [Understanding VHDL](#understanding-vhdl)
-5. [Setting Up the Development Environment](#setting-up-the-development-environment)
-6. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
-7. [FPGA Design Workflow](#fpga-design-workflow)
-8. [Hands-on FPGA Projects](#hands-on-fpga-projects)
-9. [Debugging and Optimization](#debugging-and-optimization)
-10. [Advanced Topics (Future Scope)](#advanced-topics-future-scope)
+1. [Introduction to FPGA](#introduction-to-fpga)
+2. [Understanding VHDL](#understanding-vhdl)
+3. [Setting Up the Development Environment](#setting-up-the-development-environment)
+4. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
+5. [FPGA Design Workflow](#fpga-design-workflow)
+6. [Hands-on FPGA Projects](#hands-on-fpga-projects)
+7. [Debugging and Optimization](#debugging-and-optimization)
+8. [Advanced Topics (Future Scope)](#advanced-topics-future-scope)
 
 ---
 
