@@ -1,4 +1,4 @@
-# Introduction to FPGAs
+![image](https://github.com/user-attachments/assets/7f1b5fd2-31f8-4a90-a7cf-4b556fffb8da)# Introduction to FPGAs
 
 ## What is an FPGA?
 
@@ -25,6 +25,12 @@ Image of a drawn out FPGA sourced from one of the contributors in the readme at 
 - **Low Latency** – Faster response times compared to software-driven solutions.
 - **Customizable Logic** – Designed for specific use cases, from signal processing to AI acceleration.
 - **Real-time Processing** – Ideal for applications requiring immediate response without waiting for software execution cycles.
+
+- 
+Image of advantages sourced from one of the contributors in the readme at [EEVBlog](https://www.youtube.com/watch?v=gUsHwi4M4xE):
+
+![image](https://github.com/user-attachments/assets/f7b467be-168e-48fa-8f23-e25caef27f57)
+
 
 ---
 
