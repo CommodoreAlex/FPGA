@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f1b5fd2-31f8-4a90-a7cf-4b556fffb8da)# Introduction to FPGAs
+# Introduction to FPGAs
 
 ## What is an FPGA?
 
