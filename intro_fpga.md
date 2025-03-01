@@ -26,11 +26,14 @@ Image of a drawn out FPGA sourced from one of the contributors in the readme at 
 - **Customizable Logic** – Designed for specific use cases, from signal processing to AI acceleration.
 - **Real-time Processing** – Ideal for applications requiring immediate response without waiting for software execution cycles.
 
-- 
 Image of advantages sourced from one of the contributors in the readme at [EEVBlog](https://www.youtube.com/watch?v=gUsHwi4M4xE):
 
 ![image](https://github.com/user-attachments/assets/f7b467be-168e-48fa-8f23-e25caef27f57)
 
+Image of disadvantages sourced from one of the contributors in the readme at [EEVBlog](https://www.youtube.com/watch?v=gUsHwi4M4xE):
+
+
+![image](https://github.com/user-attachments/assets/c7f06e57-33c3-48d7-af2b-2ca0453e5b3d)
 
 ---
 
