@@ -49,11 +49,14 @@ For my own embedded systems development journey using **Xilinx FPGAs** and **VHD
 1. [**Digilent Basys 3 Artix-7 FPGA Trainer Board**](https://www.amazon.com/dp/B00NUE1WOG?ref=ppx_yo2ov_dt_b_fed_asin_title)
     - **Price**: $176.00
     - The **Basys 3** is an ideal starting point for beginners, offering a powerful platform for learning FPGA architecture and VHDL development.
-2. [**Maeline 3ft Micro USB Cable**](https://www.amazon.com/dp/B07Q6HT22Q?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+2. [**Digilent JTAG-HS3 Programming Cable**](https://digilent.com/shop/jtag-hs3-programming-cable/)
+    - **Price**: $49.00
+    - A critical accessory for programming your FPGA board. The **JTAG-HS3** cable connects your FPGA board to your computer and allows Vivado to load your compiled designs onto the FPGA.
+3. [**Maeline 3ft Micro USB Cable**](https://www.amazon.com/dp/B07Q6HT22Q?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
     - **Price**: $6.00
-    - A critical accessory for connecting your FPGA board to your computer for programming and powering the board.
+    - A necessary accessory for connecting your FPGA board to your computer for programming and powering the board.
 
-**Total Cost**: **$182.00**
+**Total Cost**: **$231.00**
 
 This affordable setup provides a solid foundation for diving into FPGA and embedded systems development with hands-on learning.
 
