@@ -106,7 +106,6 @@ end Behavior;
 ```
 
 In this example:
-
 - **STD_LOGIC_VECTOR**: This represents a 4-bit vector for the inputs `A` and `B`.
 - **Arithmetic and Relational Operations**: The addition `A + B` is performed on two 4-bit inputs, and a carry signal is generated based on the most significant bit.
 
@@ -138,8 +137,6 @@ begin
 end process;
 ```
 
-In this example:
-
-- The `process` block is triggered on a clock signal `clk` and implements a flip-flop behavior where the output `Q` follows the input `D` on the rising edge of the clock.
+In this example the `process` block is triggered on a clock signal `clk` and implements a flip-flop behavior where the output `Q` follows the input `D` on the rising edge of the clock.
 
 ---
