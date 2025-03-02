@@ -12,8 +12,8 @@ This repository provides a comprehensive guide to mastering the fundamentals of 
 2. [Prerequisites](#prerequisites)
 3. [Introduction to FPGA](#introduction-to-fpga)
 4. [Understanding VHDL](#understanding-vhdl)
-5. [Setting Up the Development Environment](#setting-up-the-development-environment)
-6. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
+5. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
+6. [Setting Up the Development Environment](#setting-up-the-development-environment)
 7. [FPGA Design Workflow](#fpga-design-workflow)
 8. [Debugging and Optimization](#debugging-and-optimization)
 9. [Hands-on FPGA Projects](#hands-on-fpga-projects)
@@ -81,17 +81,6 @@ Learn more in [INTRO_VHDL.md](intro_vhdl.md).
 
 ---
 
-### Setting Up the Development Environment
-
-- **Choosing a Xilinx FPGA Development Board** (Recommended: **Basys 3**, **Nexys 4 DDR**, etc.)
-- **Installing Vivado Design Suite** (Step-by-step installation and setup for Xilinx FPGAs)
-- **Writing Your First VHDL Program** (Basic VHDL code to get started)
-- **Simulating VHDL Code** (Using Vivado’s simulation tools to test your code)
-
-Learn more in [SETUP_ENV.md](setup_env.md).
-
----
-
 ### Fundamental VHDL Concepts
 
 - Entity and Architecture
@@ -101,6 +90,17 @@ Learn more in [SETUP_ENV.md](setup_env.md).
 - Loops and Sequential Execution
 
 Learn more in [VHDL_FUNDAMENTALS.md](vhdl_fundamentals.md).
+
+---
+
+### Setting Up the Development Environment
+
+- **Choosing a Xilinx FPGA Development Board** (Recommended: **Basys 3**, **Nexys 4 DDR**, etc.)
+- **Installing Vivado Design Suite** (Step-by-step installation and setup for Xilinx FPGAs)
+- **Writing Your First VHDL Program** (Basic VHDL code to get started)
+- **Simulating VHDL Code** (Using Vivado’s simulation tools to test your code)
+
+Learn more in [SETUP_ENV.md](setup_env.md).
 
 ---
 
@@ -134,3 +134,18 @@ Learn more in [DEBUGGING.md](debugging.md).
 Learn more in [PROJECTS.md](projects.md).
 
 ---
+
+## Additional Learning Resources and Inspiration
+
+1. What Is An FPGA by EEVblog:
+	What is an FPGA, and how does it compare to a microcontroller? A basic introduction to what Field Programmable Gate Arrays are and how they work, and the advantages and disadvantages.
+	
+	[Watch the video here](https://www.youtube.com/watch?v=gUsHwi4M4xE)
+
+2. VHDL QuickStart Tutorial for Beginners | Learn VHDL Basics in Minutes by hotsauce:
+	This is a practical hand-on tutorial that walks you through the fundamentals of VHDL programming.
+	
+	[Watch the video here](https://www.youtube.com/watch?v=-4On2uXk83k)
+
+
+Feel free to explore more insightful lectures and tutorials for free on YouTube to deepen your understanding and stay inspired!
