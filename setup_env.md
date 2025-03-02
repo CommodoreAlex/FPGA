@@ -156,4 +156,4 @@ After simulating the design, you can program the FPGA.
 
 ## Conclusion
 
-You’ve now set up Vivado and your Xilinx FPGA environment! You can start creating more complex VHDL designs, simulate them, and implement them on the FPGA hardware. This setup lays the foundation for diving into FPGA development and embedded systems applications.
+You can start creating more complex VHDL designs, simulate them, and implement them on the FPGA hardware. This setup lays the foundation for diving into FPGA development and embedded systems applications.
