@@ -1,4 +1,4 @@
-# # Setting Up the Development Environment for Vivado with Xilinx FPGAs
+# Setting Up the Development Environment for Vivado with Xilinx FPGAs
 
 In this section, you’ll learn how to set up the development environment for working with Xilinx FPGAs using Vivado, a powerful tool for FPGA design. Follow the steps below to get everything ready for your FPGA design projects.
 
