@@ -130,11 +130,11 @@ Sometimes, designs may work perfectly in simulation but fail in hardware. Here a
 - **Serial Debugging**: Send debug messages over a UART (serial connection) to a computer. This can help you understand the internal state of your FPGA during operation.
 - **Oscilloscope & Logic Analyzer**: These tools help monitor physical signals on the FPGA’s pins, enabling you to check for issues with timing, voltage, or signal integrity.
 
-Oscilloscope:
+[Oscilloscope](https://www.keysight.com/us/en/products/oscilloscopes/handheld-modular-usb-oscilloscopes/u1600-series-handheld-oscilloscopes.html):
 
 ![image](https://github.com/user-attachments/assets/d896aeaf-3dc2-4db1-bc3b-ea73b9a0b8b1)
 
-Logic Analyzers:
+[Logic Analyzers](https://www.keysight.com/us/en/products/logic-analyzers.html):
 
 ![image](https://github.com/user-attachments/assets/842e8c73-c666-498f-a9a3-93599158de61)
 
