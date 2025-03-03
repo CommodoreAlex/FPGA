@@ -36,7 +36,7 @@ If using the **WebPACK** edition, no additional license is needed. For other edi
 
 ---
 
-## ## Connecting Your FPGA Board
+## Connecting Your FPGA Board
 
 After installing Vivado, connect your Xilinx FPGA board to your computer using the appropriate **USB cable**:
 
@@ -45,7 +45,7 @@ After installing Vivado, connect your Xilinx FPGA board to your computer using t
 
 ---
 
-## ## Creating Your First FPGA Project
+## Creating Your First FPGA Project
 
 ### 1. Open Vivado
 
