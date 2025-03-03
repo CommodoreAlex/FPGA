@@ -4,6 +4,10 @@
 
 **VHDL (Very High-Speed Integrated Circuit (VHSIC) Hardware Description Language)** is a programming language used to model and design digital circuits. It allows engineers to describe the behavior and structure of electronic systems, primarily for FPGA and ASIC designs. VHDL enables the creation of both the simulation models and the actual hardware descriptions, making it a versatile tool for electronic design.
 
+Here is one of the video's linked in the readme to help you better understand VHDL, as it is not as intuitive of a language as typical programming languages:
+
+[Watch Video Here](https://www.youtube.com/watch?v=-4On2uXk83k)
+
 ### Key Features of VHDL:
 
 - **Hardware Description** – Describes the behavior and structure of digital circuits and systems.
@@ -50,7 +54,6 @@ This is exactly how an **AND gate** works in electronics! It only gives an outpu
 ### How It Works in a Circuit
 
 The AND gate checks two (or more) signals:
-
 - If **both signals are ON (1)**, the result is **ON (1)**.
 - If **either signal is OFF (0)**, the result is **OFF (0)**.
 
