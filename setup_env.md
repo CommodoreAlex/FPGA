@@ -4,13 +4,13 @@ In this section, you’ll learn how to set up the development environment for wo
 
 # Table of Contents
 
-1. [Choosing a Xilinx FPGA Development Board](#1-choosing-a-xilinx-fpga-development-board)
-2. [Installing Vivado Design Suite](#2-installing-vivado-design-suite)
-3. [Connecting Your FPGA Board](#3-connecting-your-fpga-board)
-4. [Creating Your First FPGA Project](#4-creating-your-first-fpga-project)
+1. [Choosing a Xilinx FPGA Development Board](#choosing-a-xilinx-fpga-development-board)
+2. [Installing Vivado Design Suite](#installing-vivado-design-suite)
+3. [Connecting Your FPGA Board](#connecting-your-fpga-board)
+4. [Creating Your First FPGA Project](#creating-your-first-fpga-project)
 
 ---
-## 1. Choosing a Xilinx FPGA Development Board
+## Choosing a Xilinx FPGA Development Board
 
 You’ll need a Xilinx FPGA development board. For beginners, I recommend the **Basys 3 Artix-7 FPGA Trainer Board**, which is a great platform for learning FPGA design. You can find it here:
 
@@ -18,7 +18,7 @@ You’ll need a Xilinx FPGA development board. For beginners, I recommend the **
 
 ----
 
-## ## 2. Installing Vivado Design Suite
+## ## Installing Vivado Design Suite
 
 Vivado is the official development environment from Xilinx for synthesizing, simulating, and programming FPGAs.
 
@@ -29,14 +29,14 @@ Follow these steps to install Vivado:
 3. Run the installer and follow the on-screen instructions. Select **Vivado WebPACK Edition** if using the free version.
 4. The installation may take some time, depending on your system.
 
-![image](https://github.com/user-attachments/assets/6906009e-1d80-4a65-a98b-a3ecf1cb49f9)
+![image](https://github.com/user-attachments/assets/b639cc7d-8a02-49c7-afe4-d65a0f06f248)
 
 
 If using the **WebPACK** edition, no additional license is needed. For other editions, follow Xilinx’s instructions to obtain a license.
 
 ---
 
-## ## 3. Connecting Your FPGA Board
+## ## Connecting Your FPGA Board
 
 After installing Vivado, connect your Xilinx FPGA board to your computer using the appropriate **USB cable**:
 
@@ -45,7 +45,7 @@ After installing Vivado, connect your Xilinx FPGA board to your computer using t
 
 ---
 
-## ## 4. Creating Your First FPGA Project
+## ## Creating Your First FPGA Project
 
 ### 1. Open Vivado
 
