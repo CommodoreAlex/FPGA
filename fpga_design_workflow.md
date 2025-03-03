@@ -47,8 +47,6 @@ Rather than focusing on tool-specific commands or nitty-gritty details, the FPGA
 - **Step 3 (Place and Route)**: At this point, you’ll see how the design **physically maps** to the FPGA hardware.
 - **Step 4 (Generate the Bitstream and Program the FPGA)**: Finally, you’ll get hands-on experience by loading the design onto the FPGA to make it come alive.
 
-Each of the **hands-on FPGA projects** you’ll work on will follow these general steps. The workflow doesn’t have to go into the weeds of **how** each tool works; it simply provides context for **why** you’re doing what you're doing.
-
-The **FPGA Design Workflow** serves to clarify how the individual projects you’re working on connect to the broader FPGA development cycle. It's the "why" behind the "what" you’re doing in each project.
+Each of the **hands-on FPGA projects** you’ll work on will follow these general steps. The **FPGA Design Workflow** serves to clarify how the individual projects you’re working on connect to the broader FPGA development cycle. It's the "why" behind the "what" you’re doing in each project.
 
 ---
