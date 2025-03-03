@@ -29,8 +29,6 @@ You’ll need a Xilinx FPGA development board. For beginners, I recommend the **
 
 - [Basys 3 Artix-7 FPGA Trainer Board on Amazon](https://www.amazon.com/dp/B00NUE1WOG?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-Something else to consider with your work on this FPGA, would be to invest in a case like: 
-
 ## **2. Installing Vivado Design Suite**
 
 Vivado is the official development environment from Xilinx for synthesizing, simulating, and programming FPGAs. Follow these steps to install Vivado:
