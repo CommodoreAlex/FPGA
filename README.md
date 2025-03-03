@@ -154,5 +154,9 @@ Learn more in [PROJECTS.md](projects.md).
 	
 	[Watch the video here](https://www.youtube.com/watch?v=V2D4kYfJ5FQ)
 
+4. VHDL Code to Implement AND Gate | VHDL | Digital Electronics in EXTC Engineering by Ekeeda:
+	This tutorial on implementing an AND Gate in Digital Electronics was helpful for understanding AND gates, and compounding on topics in certain sections in this repository.
+	
+	[Watch the video here](https://www.youtube.com/watch?v=pD6g661kv_s)
 
 Feel free to explore more insightful lectures and tutorials for free on YouTube to deepen your understanding and stay inspired!
