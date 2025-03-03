@@ -23,7 +23,7 @@
 
 In this section, you’ll learn how to set up the development environment for working with Xilinx FPGAs using Vivado, a powerful tool for FPGA design. Follow the steps below to get everything ready for your FPGA design projects.
 
-## 1. **Choosing a Xilinx FPGA Development Board**
+## **1. Choosing a Xilinx FPGA Development Board**
 
 You’ll need a Xilinx FPGA development board. For beginners, I recommend the **Basys 3 Artix-7 FPGA Trainer Board**, which is a great platform for learning FPGA design. You can find it here:
 
@@ -31,14 +31,14 @@ You’ll need a Xilinx FPGA development board. For beginners, I recommend the **
 
 Something else to consider with your work on this FPGA, would be to invest in a case like: 
 
-## 2. **Installing Vivado Design Suite**
+## **2. Installing Vivado Design Suite**
 
 Vivado is the official development environment from Xilinx for synthesizing, simulating, and programming FPGAs. Follow these steps to install Vivado:
 
 1. Go to the [Xilinx Vivado Design Suite](https://www.xilinx.com/support/download.html) page.
 2. Download the version that suits your FPGA development board. The **Vivado WebPACK** version is free and works for most beginner projects.
 
-### Step 2: **Install Vivado**
+### **Step 2: Install Vivado**
 
 1. Download the installer for your operating system.
 2. Run the installer and follow the on-screen instructions. Select **Vivado WebPACK Edition** if using the free version.
@@ -46,11 +46,11 @@ Vivado is the official development environment from Xilinx for synthesizing, sim
 
 ![[Pasted image 20250302162952.png]]
 
-### Step 3: **Licensing**
+### **Step 3: Licensing**
 
 If using the **WebPACK** edition, no additional license is needed. For other editions, follow Xilinx’s instructions to obtain a license.
 
-## 3. **Connecting Your FPGA Board**
+## **3. Connecting Your FPGA Board**
 
 After installing Vivado, connect your Xilinx FPGA board to your computer using the appropriate **USB cable**:
 
@@ -59,23 +59,23 @@ After installing Vivado, connect your Xilinx FPGA board to your computer using t
 
 Make sure to use the right cable for both **programming** and **powering** the FPGA. Power the FPGA board with the provided power supply, and Vivado should detect the board automatically. If not, you may need to install USB drivers.
 
-## 4. **Writing Your First VHDL Program**
+## **4. Writing Your First VHDL Program**
 
 Now that your environment is set up, you can write your first VHDL program.
 
-### Step 1: **Create a New Project**
+### **Step 1: Create a New Project**
 
 1. Open Vivado and create a new project.
 2. Choose **RTL Project** and proceed with the setup, specifying the project name and location.
 3. Add your sources and constraints later.
 
-### Step 2: **Add VHDL Source File**
+### **Step 2: Add VHDL Source File**
 
 1. Under the **Project Manager**, go to the **Sources** tab.
 2. Right-click in the **Design Sources** pane and select **New VHDL Module**.
 3. Name the file (e.g., `Blink_LED`) and click **OK**.
 
-### Step 3: **Write VHDL Code**
+### **Step 3: Write VHDL Code**
 
 Here’s a simple VHDL code example to blink an LED:
 ```vhdl
@@ -98,11 +98,11 @@ begin
 end Behavioral;
 ```
 
-## 5. **Simulating VHDL Code**
+## **5. Simulating VHDL Code**
 
 Vivado includes simulation tools for testing your VHDL code before programming the FPGA.
 
-### Step 1: **Create a Testbench**
+### **Step 1: Create a Testbench**
 
 A **testbench** provides stimulus and observes the output of your design. Here’s an example for the `Blink_LED` design:
 ```vhdl
@@ -128,21 +128,21 @@ begin
 end behavior;
 ```
 
-### Step 2: **Run the Simulation**
+### **Step 2: Run the Simulation**
 
 1. In Vivado, go to **Flow Navigator** > **Simulation** > **Run Simulation**.
 2. Choose **Run Behavioral Simulation** to test the design and observe the waveform.
 
-## 6. **Programming the FPGA**
+## **6. Programming the FPGA**
 
 After simulating the design, you can program the FPGA.
 
-### Step 1: **Generate Bitstream**
+### **Step 1: Generate Bitstream**
 
 1. In Vivado, go to **Flow Navigator** and click **Generate Bitstream**.
 2. This will compile your design into a file that can be programmed onto the FPGA.
 
-### Step 2: **Program the FPGA**
+### **Step 2: Program the FPGA**
 
 1. **Connect the FPGA board** to your computer using the appropriate cable:
     - **Micro-USB cable**: If your board uses this cable for both power and communication.
@@ -156,4 +156,4 @@ After simulating the design, you can program the FPGA.
 
 ## Conclusion
 
-You can start creating more complex VHDL designs, simulate them, and implement them on the FPGA hardware. This setup lays the foundation for diving into FPGA development and embedded systems applications.
+You’ve now set up Vivado and your Xilinx FPGA environment! You can start creating more complex VHDL designs, simulate them, and implement them on the FPGA hardware. This setup lays the foundation for diving into FPGA development and embedded systems applications.
