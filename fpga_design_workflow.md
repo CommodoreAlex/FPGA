@@ -2,6 +2,10 @@
 
 Designing a system on an FPGA involves several steps, but this workflow provides the **high-level steps** to prepare you for the hands-on projects that will help reinforce each stage.
 
+Here is a video to expand on the ideas below:
+
+[Watch Video Here](https://www.youtube.com/watch?v=V2D4kYfJ5FQ)
+
 ---
 
 ### 1. High-Level Overview of FPGA Development
