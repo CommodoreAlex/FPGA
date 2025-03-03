@@ -18,7 +18,7 @@ You’ll need a Xilinx FPGA development board. For beginners, I recommend the **
 
 ----
 
-## ## Installing Vivado Design Suite
+## Installing Vivado Design Suite
 
 Vivado is the official development environment from Xilinx for synthesizing, simulating, and programming FPGAs.
 
