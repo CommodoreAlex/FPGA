@@ -8,15 +8,14 @@ This repository provides a comprehensive guide to mastering the fundamentals of 
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Prerequisites](#prerequisites)
-3. [Introduction to FPGA](#introduction-to-fpga)
-4. [Understanding VHDL](#understanding-vhdl)
-5. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
-6. [Setting Up the Development Environment](#setting-up-the-development-environment)
-7. [FPGA Design Workflow](#fpga-design-workflow)
-8. [Debugging and Optimization](#debugging-and-optimization)
-9. [Hands-on FPGA Projects](#hands-on-fpga-projects)
+1. [Introduction to FPGA](#introduction-to-fpga)
+2. [Understanding VHDL](#understanding-vhdl)
+3. [Fundamental VHDL Concepts](#fundamental-vhdl-concepts)
+4. [Setting Up the Development Environment](#setting-up-the-development-environment)
+5. [FPGA Design Workflow](#fpga-design-workflow)
+6. [Debugging and Optimization](#debugging-and-optimization)
+7. [Hands-on FPGA Projects](#hands-on-fpga-projects)
+8. [Additional Learning Resources and Inspiration](Additional -Learning-Resources-and-Inspiration)
 
 ---
 
@@ -149,6 +148,11 @@ Learn more in [PROJECTS.md](projects.md).
 	This is a practical hand-on tutorial that walks you through the fundamentals of VHDL programming.
 	
 	[Watch the video here](https://www.youtube.com/watch?v=-4On2uXk83k)
+
+3. FPGA Design Flow: 7 Essential Steps to Implementing a Circuit on an FPGA by FPGATEK:
+	This video walks you through the design workflow expectations of working with these digital circuit boards.
+	
+	[Watch the video here](https://www.youtube.com/watch?v=V2D4kYfJ5FQ)
 
 
 Feel free to explore more insightful lectures and tutorials for free on YouTube to deepen your understanding and stay inspired!
