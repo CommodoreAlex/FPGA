@@ -2,7 +2,9 @@
 
 In VHDL, understanding the core concepts is essential to effectively designing and simulating digital circuits. 
 
-This is recommended viewing at this point because this type of language is not as intuitive as other programming languages: [Watch Video Here](https://www.youtube.com/watch?v=-4On2uXk83k&t=37s)
+This is recommended viewing at this point because this type of language is not as intuitive as other programming languages: 
+
+[Watch Video Here](https://www.youtube.com/watch?v=-4On2uXk83k&t=37s)
 
 Below are some key fundamental concepts that every VHDL designer should be familiar with:
 
