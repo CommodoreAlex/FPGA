@@ -15,7 +15,7 @@ This repository provides a comprehensive guide to mastering the fundamentals of 
 5. [FPGA Design Workflow](#fpga-design-workflow)
 6. [Debugging and Optimization](#debugging-and-optimization)
 7. [Hands-on FPGA Projects](#hands-on-fpga-projects)
-8. [Additional Learning Resources and Inspiration](Additional-Learning-Resources-and-Inspiration)
+8. [Additional Learning Resources and Inspiration](#Additional-Learning-Resources-and-Inspiration)
 
 ---
 
