@@ -140,21 +140,25 @@ Learn more in [PROJECTS.md](projects.md).
 ## Additional Learning Resources and Inspiration
 
 1. What Is An FPGA by EEVblog:
+   
 	What is an FPGA, and how does it compare to a microcontroller? A basic introduction to what Field Programmable Gate Arrays are and how they work, and the advantages and disadvantages.
 	
 	[Watch the video here](https://www.youtube.com/watch?v=gUsHwi4M4xE)
 
-2. VHDL QuickStart Tutorial for Beginners | Learn VHDL Basics in Minutes by hotsauce:
+3. VHDL QuickStart Tutorial for Beginners | Learn VHDL Basics in Minutes by hotsauce:
+   
 	This is a practical hand-on tutorial that walks you through the fundamentals of VHDL programming.
 	
 	[Watch the video here](https://www.youtube.com/watch?v=-4On2uXk83k)
 
-3. FPGA Design Flow: 7 Essential Steps to Implementing a Circuit on an FPGA by FPGATEK:
+5. FPGA Design Flow: 7 Essential Steps to Implementing a Circuit on an FPGA by FPGATEK:
+
 	This video walks you through the design workflow expectations of working with these digital circuit boards.
 	
 	[Watch the video here](https://www.youtube.com/watch?v=V2D4kYfJ5FQ)
 
-4. VHDL Code to Implement AND Gate | VHDL | Digital Electronics in EXTC Engineering by Ekeeda:
+7. VHDL Code to Implement AND Gate | VHDL | Digital Electronics in EXTC Engineering by Ekeeda:
+
 	This tutorial on implementing an AND Gate in Digital Electronics was helpful for understanding AND gates, and compounding on topics in certain sections in this repository.
 	
 	[Watch the video here](https://www.youtube.com/watch?v=pD6g661kv_s)
