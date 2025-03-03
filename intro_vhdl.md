@@ -61,6 +61,11 @@ This follows a simple rule, shown in its **truth table**:
 |0|1|0|
 |1|0|0|
 |1|1|1|
+
+See this video here for a good explanation to expand on that idea, in only < 7 minutes:
+
+[Watch Video Here](https://www.youtube.com/watch?v=pD6g661kv_s)
+
 ### Why is This Useful?
 
 AND gates are used in many everyday electronics, including:  
