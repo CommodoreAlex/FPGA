@@ -57,7 +57,6 @@ create_clock -period 10.0 [get_ports clk]     -- Define a clock with a 10 ns per
 ```
 
 **Explanation**:
-
 - The `PACKAGE_PIN W5` line assigns the `clk` signal to a physical pin on the FPGA (`W5`).
 - The `create_clock` line defines a clock with a 10 ns period (100 MHz), ensuring that the FPGA runs at the correct frequency.
 
@@ -130,6 +129,15 @@ Sometimes, designs may work perfectly in simulation but fail in hardware. Here a
 - **LED Debugging**: Use LEDs to indicate the state of signals or specific parts of your design. It’s a quick and simple method for diagnosing issues.
 - **Serial Debugging**: Send debug messages over a UART (serial connection) to a computer. This can help you understand the internal state of your FPGA during operation.
 - **Oscilloscope & Logic Analyzer**: These tools help monitor physical signals on the FPGA’s pins, enabling you to check for issues with timing, voltage, or signal integrity.
+
+Oscilloscope:
+
+![image](https://github.com/user-attachments/assets/d896aeaf-3dc2-4db1-bc3b-ea73b9a0b8b1)
+
+Logic Analyzers:
+
+![image](https://github.com/user-attachments/assets/842e8c73-c666-498f-a9a3-93599158de61)
+
 
 #### Components for Hardware Debugging
 
