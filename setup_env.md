@@ -44,7 +44,8 @@ Vivado is the official development environment from Xilinx for synthesizing, sim
 2. Run the installer and follow the on-screen instructions. Select **Vivado WebPACK Edition** if using the free version.
 3. The installation may take some time, depending on your system.
 
-![[Pasted image 20250302162952.png]]
+![image](https://github.com/user-attachments/assets/d936e0aa-287e-4761-8765-58c95a47aa1d)
+
 
 ### **Step 3: Licensing**
 
